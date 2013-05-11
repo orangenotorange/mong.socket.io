@@ -18,7 +18,7 @@
     ,"pubsub"
   ]
   ,"dependencies": {
-     "mubsub": "0.2.x"
+     "mubsub": "0.2.1"
     ,"socket.io": "0.9.x"
     ,"underscore": "1.4.x"
     }
