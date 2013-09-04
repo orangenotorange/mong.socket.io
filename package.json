@@ -1,7 +1,7 @@
 {
    "name": "mong.socket.io"
   ,"description": "Socket.io store using mongodb."
-  ,"version": "0.9.0"
+  ,"version": "0.9.1"
   ,"repository": {
       "type": "git",
       "url": "git://github.com/tmfkmoney/mong.socket.io.git"
