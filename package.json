@@ -1,16 +1,16 @@
 {
    "name": "mong.socket.io"
   ,"description": "Socket.io store using mongodb."
-  ,"version": "0.9.1"
+  ,"version": "0.9.2"
   ,"repository": {
       "type": "git",
-      "url": "git://github.com/tmfkmoney/mong.socket.io.git"
+      "url": "git://github.com/deedw/mong.socket.io.git"
     }
   ,"author": {
    "name": "Keith Weiss",
    "email": "keith.weiss@gmail.com"
 } ,"engines": {
-    "node": "0.8.x"
+    "node": "0.8.x - 0.10.x"
   }
   ,"keywords": [
      "mongodb"
