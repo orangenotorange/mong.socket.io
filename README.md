@@ -3,6 +3,9 @@
 This is a socket.io store using mongo based on the socket.io-mongo module by Oleg Slobodskoi.
 I updated the store to support the most recent versions of socket.io, mongo, and mubsub.
 
+Version 0.9.2 works with mubsub version 1.02. Note that the capped collection storage format
+has changed from that in versions <= 0.9.1.
+
 ### Install
 
     npm install mong.socket.io
