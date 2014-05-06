@@ -1,31 +1,41 @@
 {
-   "name": "mong.socket.io"
-  ,"description": "Socket.io store using mongodb."
-  ,"version": "0.9.2"
-  ,"repository": {
-      "type": "git",
-      "url": "git://github.com/deedw/mong.socket.io.git"
-    }
-  ,"author": {
-   "name": "Keith Weiss",
-   "email": "keith.weiss@gmail.com"
-} ,"engines": {
+  "name": "mong.socket.io",
+  "description": "Socket.io store using mongodb.",
+  "version": "0.9.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deedw/mong.socket.io.git"
+  },
+  "author": "Keith Weiss <keith.weiss@gmail.com>",
+  "engines": {
     "node": "0.8.x - 0.10.x"
-  }
-  ,"keywords": [
-     "mongodb"
-    ,"socket.io"
-    ,"pubsub"
-  ]
-  ,"dependencies": {
-     "mubsub": "1.0.4"
-    ,"socket.io": "0.9.x"
-    ,"underscore": "1.4.x"
-    }
-  ,"licenses": [
+  },
+  "keywords": [
+    "mongodb",
+    "socket.io",
+    "pubsub"
+  ],
+  "dependencies": {
+    "mubsub": "1.0.4",
+    "socket.io": "0.9.x",
+    "underscore": "1.4.x"
+  },
+  "licenses": [
     {
       "type": "MIT",
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/deedw/mong.socket.io/issues"
+  },
+  "homepage": "https://github.com/deedw/mong.socket.io",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
 }
